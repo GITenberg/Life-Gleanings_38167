@@ -1,0 +1,33 @@
+_repo: Life-Gleanings_38167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macon, T. J. (Thomas Joseph)
+    alias: Macon, Thomas Joseph
+    birthdate: 1839
+    deathdate: 1917
+    gutenberg_agent_id: '39279'
+    url: http://www.gutenberg.org/2009/agents/39279
+description: ''
+gutenberg_issued: '2011-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Richmond (Va.) -- Social life and customs'
+- !lcsh 'Macon, T. J. (Thomas Joseph), 1839-1917'
+- !lcsh 'Virginia -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+- !lcsh 'Confederate States of America. Army. Virginia Artillery. Richmond Howitzers'
+title: Life Gleanings
+url: http://www.gutenberg.org/ebooks/38167
